@@ -1,4 +1,4 @@
-<img src="./assets/screenshot.png" width="100%" title="wordpair-app">
+<img src="./assets/screenshot.png" width="300px" title="wordpair-app">
 
 # wordpair_generator
 
